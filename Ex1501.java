@@ -2,12 +2,12 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Ex1404 extends JFrame {
+public class Ex1501 extends JFrame {
 	
 	// 클래스 변수로 lbl2 선언
 	private JLabel lbl2;
 
-	public Ex1404() {
+	public Ex1501() {
 		setTitle("계산기");
 		setSize(300, 250);
 		setLayout(null); // 레이아웃 설정을 여기로 이동
